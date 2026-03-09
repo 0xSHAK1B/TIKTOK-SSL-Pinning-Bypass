@@ -5,7 +5,6 @@
 ![ARM64](https://img.shields.io/badge/ARM64--v8a-Supported-blue?style=for-the-badge)
 
 > Bypass TikTok SSL certificate pinning on Android to intercept, inspect, and analyze HTTPS network traffic — works on both **rooted** and **non-rooted** devices.
-
 ---
 
 ## 📖 Overview

@@ -27,13 +27,6 @@ If this project helped you, **please star this repo** — it helps others find i
 
 ---
 
-## 🎥 Proof of Concept
-
-<img width="720" height="1640" alt="Image" src="https://github.com/user-attachments/assets/12a3f501-437d-49b2-8a12-dd1ab1c054e5" />
-
-▶️ [**Watch the Full Video Demonstration**](https://github.com/user-attachments/assets/9f0fcfdb-8d29-4c08-82f5-fc985400fdb2)
-
----
 
 ## 📦 Download
 
@@ -41,7 +34,7 @@ If this project helped you, **please star this repo** — it helps others find i
 
 | File | Description |
 |------|-------------|
-| `TikTok-43.9.3-bypassed-arm64.apk` | ARM64-v8a patched APK |
+| `TikTok-44.2.3-bypassed-arm64.apk` | ARM64-v8a patched APK |
 
 > ⚠️ Always download from the official **Releases** tab. For the **latest version**, [contact me on Telegram](https://t.me/MUH4MM4DSH4KIB).
 
@@ -51,7 +44,7 @@ If this project helped you, **please star this repo** — it helps others find i
 
 | App | Package | Version | Status |
 |-----|---------|---------|--------|
-| TikTok | `com.zhiliaoapp.musically` | **43.9.3** | ✅ Bypassed |
+| TikTok | `com.zhiliaoapp.musically` | **44.2.3** | ✅ Bypassed |
 
 ---
 

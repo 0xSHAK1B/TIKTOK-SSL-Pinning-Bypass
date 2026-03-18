@@ -19,6 +19,7 @@ This project provides a pre-patched **TikTok APK** with SSL/TLS certificate pinn
 - ✅ ARM64-v8a architecture support
 - ✅ Full app functionality preserved — browse, watch, and interact normally
 
+
 ---
 
 ## ⭐ Support With a Star

@@ -13,15 +13,6 @@
 
 This project provides a pre-patched **TikTok APK** with SSL/TLS certificate pinning disabled, enabling security researchers and developers to capture and analyze TikTok's HTTPS traffic using standard MITM proxy tools. Inspect API endpoints, video feed requests, authentication flows, analytics payloads, and content delivery mechanisms used by one of the world's most popular social media platforms.
 
-### Why Bypass TikTok SSL Pinning?
-
-TikTok enforces strict SSL/TLS certificate pinning to prevent third-party inspection of its network traffic. This makes it difficult for security researchers, penetration testers, and developers to analyze how the app communicates with ByteDance servers. By using this patched APK, you can:
-
-- **Inspect TikTok API endpoints** — Discover how the For You feed, search, comments, and user profiles are fetched
-- **Analyze authentication flows** — Understand TikTok login, session management, and token handling
-- **Monitor analytics & tracking payloads** — See what telemetry data TikTok collects and transmits
-- **Study content delivery mechanisms** — Examine how videos, images, and ads are served
-- **Perform security audits** — Identify potential vulnerabilities in TikTok's mobile API
 
 ### Key Features
 
@@ -120,7 +111,7 @@ Looking for SSL pinning bypasses for other apps? Check out my other repos:
 - 📸 [Instagram SSL Pinning Bypass](https://github.com/MUH4MM4DSH4KIB/Instagram-SSL-Pinning-Bypass) — Capture Instagram API requests & responses
 - 🧵 [Threads SSL Pinning Bypass](https://github.com/MUH4MM4DSH4KIB/Threads-SSL-Pinning-Bypass) — Analyze Threads network traffic
 - 💼 [Meta Business Suite SSL Pinning Bypass](https://github.com/MUH4MM4D-SH4KIB/Meta-Business-Suite-SSL-Pinning-Bypass) — Intercept Meta Business Suite HTTPS traffic
-
+- 🎵 [TikTok Lite SSL Pinning Bypass](https://github.com/MUH4MM4D-SH4KIB/TIKTOK-LITE-SSL-Pinning-Bypass) — Intercept TikTok Lite HTTPS traffic on Android
 > 💬 For any of the above or a custom bypass, [message me on Telegram](https://t.me/MUH4MM4DSH4KIB).
 
 ---
@@ -170,4 +161,4 @@ Have a question, need a custom bypass, or want the latest APK?
 
 ## 🏷️ Tags
 
-`tiktok ssl pinning bypass` · `tiktok ssl pinning bypass 2026` · `tiktok certificate pinning bypass` · `tiktok mitm proxy` · `tiktok traffic interception` · `tiktok https decrypt` · `tiktok burp suite android` · `tiktok mitmproxy` · `tiktok api reverse engineering` · `tiktok network analysis` · `tiktok apk patched` · `tiktok ssl bypass no root` · `tiktok proxy android` · `tiktok private api` · `tiktok api endpoints` · `tiktok security research` · `bytedance ssl bypass` · `com.zhiliaoapp.musically` · `android ssl pinning bypass no root` · `android certificate pinning bypass 2026` · `mobile security research` · `android mitm proxy setup` · `tiktok reqable` · `tiktok proxypin` · `tiktok 44.3.3 bypass` · `ssl unpinning android`
+`tiktok ssl pinning bypass` · `tiktok ssl pinning bypass 2026` · `tiktok certificate pinning bypass` · `tiktok mitm proxy` · `tiktok traffic interception` · `tiktok https decrypt` · `tiktok burp suite android` · `tiktok mitmproxy` · `tiktok api reverse engineering` · `tiktok network analysis` · `tiktok apk patched` · `tiktok ssl bypass no root` · `tiktok proxy android` · `tiktok private api` · `tiktok api endpoints` · `tiktok security research` · `bytedance ssl bypass` · `com.zhiliaoapp.musically` · `android ssl pinning bypass no root` · `android certificate pinning bypass 2026` · `mobile security research` · `android mitm proxy setup` · `tiktok reqable` · `tiktok proxypin` · `tiktok 44.5.3 bypass` · `ssl unpinning android`

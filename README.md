@@ -37,7 +37,7 @@ If this project helped your security research, **please star this repo** — it 
 
 | File | Description |
 |------|-------------|
-| `TikTok-44.5.3-bypassed-arm64.apk` | ARM64-v8a patched APK with SSL pinning disabled |
+| `TikTok-44.6.4-bypassed.apk` | ARM64-v8a patched APK with SSL pinning disabled |
 
 > ⚠️ Always download from the official **Releases** tab. For the **latest version**, [contact me on Telegram](https://t.me/MUH4MM4DSH4KIB).
 
@@ -47,8 +47,8 @@ If this project helped your security research, **please star this repo** — it 
 
 | App | Package | Version | Architecture | Status |
 |-----|---------|---------|--------------|--------|
-| TikTok | `com.zhiliaoapp.musically` | **44.5.3** | `arm64-v8a` | ✅ Bypassed |
-| TikTok | `com.zhiliaoapp.musically` | **44.5.3** | `armeabi-v7a` | ✅ Bypassed |
+| TikTok | `com.zhiliaoapp.musically` | **44.6.4** | `arm64-v8a` | ✅ Bypassed |
+| TikTok | `com.zhiliaoapp.musically` | **44.6.4** | `armeabi-v7a` | ✅ Bypassed |
 ---
 
 ## 📱 Requirements
@@ -121,17 +121,11 @@ Looking for SSL pinning bypasses for other apps? Check out my other repos:
 ### Is root required?
 No. The patched APK works on both rooted and non-rooted Android devices. No Magisk, Xposed, or Frida setup is needed.
 
-### Does the app work normally after patching?
-Yes. All TikTok features remain fully functional — you can browse, watch videos, like, comment, and interact as usual while intercepting traffic.
-
 ### Which proxy tool should I use?
 For **physical devices**, [Reqable](https://reqable.com) or [Proxypin](https://proxypin.com) are recommended. For **desktop/emulator setups**, [Burp Suite](https://portswigger.net/burp) or [Mitmproxy](https://mitmproxy.org/) are industry standards.
 
 ### Why am I not seeing HTTPS traffic?
 Make sure you've installed and trusted your proxy tool's CA certificate on the device. Force-stop TikTok and relaunch after configuring the proxy. On emulators, ensure the proxy is correctly set in the Wi-Fi/APN settings.
-
-### Can I use this on iOS?
-No. This bypass is for Android only (`arm64-v8a, armeabi-v7a`). iOS requires a different approach due to Mach-O binary structure and code signing enforcement.
 
 ---
 

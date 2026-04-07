@@ -3,7 +3,7 @@
 [![Telegram](https://img.shields.io/badge/💬_Chat_on_Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=121212&color=26A5E4&logoWidth=20)](https://t.me/MUH4MM4DSH4KIB)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![ARM64](https://img.shields.io/badge/ARM64--v8a-Supported-blue?style=for-the-badge)
-![TikTok](https://img.shields.io/badge/TikTok-v44.5.3-ff0050?style=for-the-badge&logo=tiktok&logoColor=white)
+![TikTok](https://img.shields.io/badge/TikTok-v44.6.4-ff0050?style=for-the-badge&logo=tiktok&logoColor=white)
 
 > Bypass TikTok SSL certificate pinning on Android to intercept, inspect, and analyze HTTPS network traffic — works on both **rooted** and **non-rooted** devices.
 

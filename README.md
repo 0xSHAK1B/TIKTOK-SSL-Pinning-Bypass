@@ -3,7 +3,7 @@
 [![Telegram](https://img.shields.io/badge/💬_Chat_on_Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=121212&color=26A5E4&logoWidth=20)](https://t.me/MUH4MM4DSH4KIB)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![ARM64](https://img.shields.io/badge/ARM64--v8a-Supported-blue?style=for-the-badge)
-![TikTok](https://img.shields.io/badge/TikTok-v44.6.4-ff0050?style=for-the-badge&logo=tiktok&logoColor=white)
+![TikTok](https://img.shields.io/badge/TikTok-v44.9.3-ff0050?style=for-the-badge&logo=tiktok&logoColor=white)
 
 > Bypass TikTok SSL certificate pinning on Android to intercept, inspect, and analyze HTTPS network traffic — works on both **rooted** and **non-rooted** devices.
 
@@ -13,7 +13,6 @@
 
 This project provides a pre-patched **TikTok APK** with SSL/TLS certificate pinning disabled, enabling security researchers and developers to capture and analyze TikTok's HTTPS traffic using standard MITM proxy tools. Inspect API endpoints, video feed requests, authentication flows, analytics payloads, and content delivery mechanisms used by one of the world's most popular social media platforms.
 
-
 ### Key Features
 
 - ✅ No root required (also supports rooted devices)
@@ -22,6 +21,7 @@ This project provides a pre-patched **TikTok APK** with SSL/TLS certificate pinn
 - ✅ ARM64-v8a architecture support
 - ✅ Full app functionality preserved — browse, watch, and interact normally
 - ✅ Pre-patched — no Frida, Magisk, or Xposed required
+
 
 ---
 
@@ -37,7 +37,7 @@ If this project helped your security research, **please star this repo** — it 
 
 | File | Description |
 |------|-------------|
-| `TikTok-44.6.4-bypassed.apk` | ARM64-v8a patched APK with SSL pinning disabled |
+| `TikTok-44.9.3-bypassed.apk` | ARM64-v8a patched APK with SSL pinning disabled |
 
 > ⚠️ Always download from the official **Releases** tab. For the **latest version**, [contact me on Telegram](https://t.me/MUH4MM4DSH4KIB).
 
@@ -47,8 +47,8 @@ If this project helped your security research, **please star this repo** — it 
 
 | App | Package | Version | Architecture | Status |
 |-----|---------|---------|--------------|--------|
-| TikTok | `com.zhiliaoapp.musically` | **44.6.4** | `arm64-v8a` | ✅ Bypassed |
-| TikTok | `com.zhiliaoapp.musically` | **44.6.4** | `armeabi-v7a` | ✅ Bypassed |
+| TikTok | `com.zhiliaoapp.musically` | **44.9.3** | `arm64-v8a` | ✅ Bypassed |
+| TikTok | `com.zhiliaoapp.musically` | **44.9.3** | `armeabi-v7a` | ✅ Bypassed |
 ---
 
 ## 📱 Requirements
@@ -86,21 +86,6 @@ If this project helped your security research, **please star this repo** — it 
 
 ---
 
-## 🔍 What Can You Intercept?
-
-Once SSL pinning is bypassed, you can capture and inspect TikTok's network traffic including:
-
-| Traffic Type | Description |
-|---|---|
-| **For You Feed API** | Video recommendation requests and algorithm responses |
-| **Search API** | User, hashtag, and content search queries |
-| **Authentication** | Login, registration, and session token flows |
-| **Analytics** | Device telemetry, usage tracking, and event logging |
-| **Video Delivery** | CDN requests for video streaming and thumbnails |
-| **Comments & Interactions** | Like, comment, share, and follow API calls |
-| **Ad Serving** | Advertising payloads and targeting parameters |
-
----
 
 ## 🔗 Related Projects
 
@@ -151,8 +136,3 @@ Have a question, need a custom bypass, or want the latest APK?
 
 [![Telegram](https://img.shields.io/badge/💬_Chat_on_Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=121212&color=26A5E4&logoWidth=20)](https://t.me/MUH4MM4DSH4KIB)
 
----
-
-## 🏷️ Tags
-
-`tiktok ssl pinning bypass` · `tiktok ssl pinning bypass 2026` · `tiktok certificate pinning bypass` · `tiktok mitm proxy` · `tiktok traffic interception` · `tiktok https decrypt` · `tiktok burp suite android` · `tiktok mitmproxy` · `tiktok api reverse engineering` · `tiktok network analysis` · `tiktok apk patched` · `tiktok ssl bypass no root` · `tiktok proxy android` · `tiktok private api` · `tiktok api endpoints` · `tiktok security research` · `bytedance ssl bypass` · `com.zhiliaoapp.musically` · `android ssl pinning bypass no root` · `android certificate pinning bypass 2026` · `mobile security research` · `android mitm proxy setup` · `tiktok reqable` · `tiktok proxypin` · `tiktok 44.5.3 bypass` · `ssl unpinning android`

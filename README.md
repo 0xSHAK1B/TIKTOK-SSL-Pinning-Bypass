@@ -91,12 +91,13 @@ If this project helped your security research, **please star this repo** — it 
 
 Looking for SSL pinning bypasses for other apps? Check out my other repos:
 
-- 📘 [Facebook SSL Pinning Bypass](https://github.com/MUH4MM4DSH4KIB/Facebook-SSL-Pinning-Bypass) — Intercept Facebook HTTPS traffic on Android
-- 💬 [Messenger SSL Pinning Bypass](https://github.com/MUH4MM4D-SH4KIB/Messenger-SSL-Pinning-Bypass) — Capture Facebook Messenger API requests & responses
-- 📸 [Instagram SSL Pinning Bypass](https://github.com/MUH4MM4DSH4KIB/Instagram-SSL-Pinning-Bypass) — Capture Instagram API requests & responses
-- 🧵 [Threads SSL Pinning Bypass](https://github.com/MUH4MM4DSH4KIB/Threads-SSL-Pinning-Bypass) — Analyze Threads network traffic
-- 💼 [Meta Business Suite SSL Pinning Bypass](https://github.com/MUH4MM4D-SH4KIB/Meta-Business-Suite-SSL-Pinning-Bypass) — Intercept Meta Business Suite HTTPS traffic
-- 🎵 [TikTok Lite SSL Pinning Bypass](https://github.com/MUH4MM4D-SH4KIB/TIKTOK-LITE-SSL-Pinning-Bypass) — Intercept TikTok Lite HTTPS traffic on Android
+- 📘 [Facebook SSL Pinning Bypass](https://github.com/0xSHAK1B/Facebook-SSL-Pinning-Bypass) — Intercept Facebook HTTPS traffic on Android
+- 💬 [Messenger SSL Pinning Bypass](https://github.com/0xSHAK1B/Messenger-SSL-Pinning-Bypass) — Capture Facebook Messenger API requests & responses
+- 📸 [Instagram SSL Pinning Bypass](https://github.com/0xSHAK1B/Instagram-SSL-Pinning-Bypass) — Capture Instagram API requests & responses
+- 🧵 [Threads SSL Pinning Bypass](https://github.com/0xSHAK1B/Threads-SSL-Pinning-Bypass) — Analyze Threads network traffic
+- 💼 [Meta Business Suite SSL Pinning Bypass](https://github.com/0xSHAK1B/Meta-Business-Suite-SSL-Pinning-Bypass) — Intercept Meta Business Suite HTTPS traffic
+- 🎵 [TikTok Lite SSL Pinning Bypass](https://github.com/0xSHAK1B/TIKTOK-LITE-SSL-Pinning-Bypass) — Intercept TikTok Lite HTTPS traffic on Android
+
 > 💬 For any of the above or a custom bypass, [message me on Telegram](https://t.me/MUH4MM4DSH4KIB).
 
 ---

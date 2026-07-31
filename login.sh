@@ -1,0 +1,29 @@
+POST /passport/email/send_code/?passport-sdk-version=1&device_platform=android&os=android&ssmix=a&_rticket=1785515355771&cdid=ef92c04c-0a21-4f5d-9c40-dcb576efadd5&channel=googleplay&aid=1233&app_name=musical_ly&version_code=460203&version_name=46.2.3&manifest_version_code=2024602030&update_version_code=2024602030&ab_version=46.2.3&resolution=1080*2392&dpi=420&device_type=A001&device_brand=Nothing&language=en&os_api=35&os_version=15&ac=wifi&is_pad=0&app_type=normal&sys_region=GB&last_install_time=1785515318&mcc_mnc=47002&timezone_name=Asia%2FDhaka&carrier_region_v2=470&app_language=en&carrier_region=BD&timezone_offset=21600&host_abi=arm64-v8a&locale=en-GB&ac2=wifi5g&uoo=0&op_region=BD&build_number=46.2.3&region=GB&ts=1785515355&iid=7668294106108184340&device_id=7653886443743741458&openudid=030c3921c046fe9c&support_webview=1&reg_store_region=bd&user_selected_region=0&cronet_version=3a9f3ddf_2026-06-25&ttnet_version=4.2.243.57-tiktok&use_store_region_cookie=1 HTTP/2
+host: api16-normal-c-alisg.tiktokv.com
+content-length: 201
+cookie: odin_tt=c7853228a3aadbbfc6fbba3a0b8154437ff42b1a1860f9ba9aab317c61ca6ea15cf486fc1c281bac83b8536e6d7aeb556dafb37f6bad6340ee652d8fbb0a148ca64381774a44562415d993161bf9636f
+tt-ticket-guard-public-key: BNZVM7xa3AiaX4aQ9RjNqmbRFxMGGaVnS+zZ1bEcrQigDRjb1nG95Ce9nigKqAiEhXV21ofkqtkou07KRX8d91o=
+sdk-version: 2
+tt-ticket-guard-iteration-version: 0
+x-tt-dm-status: login=0;ct=1;rt=101
+x-ss-req-ticket: 1785515355778
+tt-ticket-guard-version: 3
+passport-sdk-settings: x-tt-token
+passport-sdk-sign: x-tt-token
+passport-sdk-version: 1
+x-tt-bypass-dp: 1
+x-vc-bdturing-sdk-version: 2.4.2.i18n
+tt-device-guard-iteration-version: 1
+tt-device-guard-client-data: eyJkZXZpY2VfdG9rZW4iOiIxfHtcImFpZFwiOjEyMzMsXCJhdlwiOlwiNDYuMi4zXCIsXCJkaWRcIjpcIjc2NTM4ODY0NDM3NDM3NDE0NThcIixcImlpZFwiOlwiNzY2ODI5NDEwNjEwODE4NDM0MFwiLFwiZml0XCI6XCIxNzgyMDU5NzA2XCIsXCJzXCI6MSxcImlkY1wiOlwibXkyXCIsXCJ0c1wiOlwiMTc4NTUxNTMyMFwifSIsInRpbWVzdGFtcCI6MTc4NTUxNTM1NywicmVxX2NvbnRlbnQiOiJkZXZpY2VfdG9rZW4scGF0aCx0aW1lc3RhbXAiLCJkdG9rZW5fc2lnbiI6InRzLjEuTUVRQ0lGWVRicFwvY2thM2pXWmxhYWk4Smk4NE5KU3hIcW5QclJlV1BzZUtnMTRvZUFpQnBHWXlFUktOZVwvQ096RFBHNXRHcmlSTnRvY1RhZ0RLRlZKNENqT2tHQktRPT0iLCJkcmVxX3NpZ24iOiJNRVVDSUc2SkU1blpPak5mNm5YY3hXZHROSHVheHdQaEYyUVRNSEwxaFNETzY3ZzdBaUVBN2ZvQVdrUmJZYWk3YlA2STZJK21uTUFvOHZvOU5yZUN4YktIdkp3RXNRND0ifQ==
+content-type: application/x-www-form-urlencoded; charset=UTF-8
+x-ss-stub: B8984DCAE4DEF1D784A08E7F9D44E5E5
+x-tt-request-tag: s=-1;p=0
+x-tt-trace-id: 00-b9023618106a38112b26860612f404d1-b9023618106a3811-01
+user-agent: com.zhiliaoapp.musically/2024602030 (Linux; U; Android 15; en_GB; A001; Build/AP3A.240905.015.A2; Cronet/TTNetVersion:3a9f3ddf 2026-06-25 QuicVersion:c3b23989 2026-06-25)
+accept-encoding: gzip, deflate, br
+x-argus: ar4eOW5WP2CbpmEOBX/xUsSbYxd1BG6QpvF+K7rLnKqdXg1DTAinThzPKi4zcFjkGY2ToJ3GtNmL3j3nVsWfFufLRYsIxftlOS2G5JFnCWZ+fqH9VDiYKoNZOnK8yHxUk5zRsPORJrRBvaVn+VRV9GlF2pQxd9ejTsEa8y69iXk8GrtUiPb6RE8HAz61XXMCSKnHTDyyh4m4eHC4+JrjfGtToJpsbYWUxgOFNjoq1dEUr15jn2Z0UeKiDvIu97NFeMqQtZthHGJF7+R1d6WA3cw9wqwPnXigQUpAEsXmeoA2ofn+Hm67HGBUUdz7dSuga+OMcFADOFoboHlKIjn1NGCZSnsv1zaNNz7oz14agf/YU1c36efqOlScFQWSXWvFcfLOFwTY7+4nlTmc6nCxYUk5ICXo2841NSLropAeI7oudhwNBCa5ay2UB3XVOLSQJw+oSjqQt53LPvViPjgzDYxI0ChHL19BmN4978hZUgrIZC0l0s+UYexvOpgpAX9I4O/cmgIMqOR0L9Li/ievi2SVcl5K+rGUIEB0fG1KlCBfB7Nq1FH8BLpKR0ax8UenDnEBp7RnkHyfyFTbvNFp+Q7MVugAvUPGJXiDrYj4pEm8GdioIoZz3RS8rYeEQHKFXwlOrRlOOhcNL5aiS9S8yIBYVzxr0pEKWdCzzgL6wzDh2RxiEJ5IR1lDw1nvyX12T6OfShjXOkwUPw79VDhy8CaA
+x-gorgon: 8404c0271000f2e29a7898fef05113909c9420852947cfb35bc6
+x-khronos: 1785515357
+x-ladon: QF1gfnVZqYeyqIdiHtfeMtuj9lC+97P3b747R2K5L05LniNp
+
+account_sdk_source=app&rule_strategies=2&mix_mode=1&enable_account_selection=1&multi_login=1&type=3436&email=68706d6468686461766d646e6c67456268646c692b666a68&email_theme=2&use_passport_ticket=1&scene=3

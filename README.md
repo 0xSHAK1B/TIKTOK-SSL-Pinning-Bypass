@@ -3,7 +3,7 @@
 [![Telegram](https://img.shields.io/badge/💬_Chat_on_Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=121212&color=26A5E4&logoWidth=20)](https://t.me/MUH4MM4DSH4KIB)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![ARM64](https://img.shields.io/badge/ARM64--v8a-Supported-blue?style=for-the-badge)
-![TikTok](https://img.shields.io/badge/TikTok-v45.9.3-ff0050?style=for-the-badge&logo=tiktok&logoColor=white)
+![TikTok](https://img.shields.io/badge/TikTok-v46.2.3-ff0050?style=for-the-badge&logo=tiktok&logoColor=white)
 
 > Bypass TikTok SSL certificate pinning on Android to intercept, inspect, and analyze HTTPS network traffic — works on both **rooted** and **non-rooted** devices.
 
@@ -26,7 +26,7 @@ This project provides a pre-patched **TikTok APK** with SSL/TLS certificate pinn
 
 I've recently released a **new, improved TikTok bypass APK** with significant upgrades over the public version:
 
-| Feature | Public Build (v45.9.3) | 🌟 **Latest Enhanced Build** |
+| Feature | Public Build (v46.2.3) | 🌟 **Latest Enhanced Build** |
 |---------|:----------------------:|:----------------------------:|
 | SSL Pinning Bypass | ✅ | ✅ |
 | Android 10 & below support | ✅ | ✅ |
@@ -55,7 +55,7 @@ The latest enhanced APK is **not publicly distributed**. To request access:
 
 > Live capture from the **Enhanced Build** showing TikTok's authentication endpoint (`/passport/email/send_code/`) being intercepted in cleartext on a modern Android version — something the public build cannot do.
 
-<img width="1198" height="774" alt="Image" src="https://github.com/user-attachments/assets/78fa97cf-46c9-4cc1-9cb0-a58012a07c88" />
+<img width="1021" height="801" alt="Image" src="https://github.com/user-attachments/assets/ba7e095c-e09c-4df7-adae-dc5c4c3a3cf9" />
 
 
 ---
@@ -66,7 +66,7 @@ If this project helped your security research, **please star this repo** — it 
 
 ---
 
-## 📦 Download (v45.9.3)
+## 📦 Download (v46.2.3)
 
 > ⚠️ **Note:** This public build only supports **Android 10 and below**, and **cannot capture login/authentication traffic**. For Android 11+ support and login capture, use the [**Enhanced Build**](#-latest-enhanced-build--now-available) (Telegram only).
 

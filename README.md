@@ -117,13 +117,17 @@ If this project helped your security research, **please star this repo** — it 
 
 Looking for SSL pinning bypasses for other apps? Check out my other repos:
 
+- 🎵 [TikTok iOS SSL Pinning Bypass](https://github.com/0xSHAK1B/TikTok-iOS-SSL-Pinning-Bypass) — Intercept TikTok HTTPS traffic on iOS
 - 📘 [Facebook SSL Pinning Bypass](https://github.com/0xSHAK1B/Facebook-SSL-Pinning-Bypass) — Intercept Facebook HTTPS traffic on Android
+- 📘 [Facebook iOS SSL Pinning Bypass](https://github.com/0xSHAK1B/Facebook-iOS-SSL-Pinning-Bypass) — Intercept Facebook HTTPS traffic on iOS
 - 💬 [Messenger SSL Pinning Bypass](https://github.com/0xSHAK1B/Messenger-SSL-Pinning-Bypass) — Capture Facebook Messenger API requests & responses
-- 📸 [Instagram SSL Pinning Bypass](https://github.com/0xSHAK1B/Instagram-SSL-Pinning-Bypass) — Capture Instagram API requests & responses
-- 🧵 [Threads SSL Pinning Bypass](https://github.com/0xSHAK1B/Threads-SSL-Pinning-Bypass) — Analyze Threads network traffic
+- 📸 [Instagram SSL Pinning Bypass](https://github.com/0xSHAK1B/Instagram-SSL-Pinning-Bypass) — Capture Instagram API requests & responses on Android
+- 📸 [Instagram iOS SSL Pinning Bypass](https://github.com/0xSHAK1B/Instagram-iOS-SSL-Pinning-Bypass) — Capture Instagram API requests & responses on iOS
+- 🧵 [Threads SSL Pinning Bypass](https://github.com/0xSHAK1B/Threads-SSL-Pinning-Bypass) — Analyze Threads network traffic on Android
+- 🧵 [Threads iOS SSL Pinning Bypass](https://github.com/0xSHAK1B/Threads-iOS-SSL-Pinning-Bypass) — Analyze Threads network traffic on iOS
 - 💼 [Meta Business Suite SSL Pinning Bypass](https://github.com/0xSHAK1B/Meta-Business-Suite-SSL-Pinning-Bypass) — Intercept Meta Business Suite HTTPS traffic
 - 🎵 [TikTok Lite SSL Pinning Bypass](https://github.com/0xSHAK1B/TIKTOK-LITE-SSL-Pinning-Bypass) — Intercept TikTok Lite HTTPS traffic on Android
-- 🛒 [AliExpress SSL Pinning Bypass](https://github.com/0xSHAK1B/AliExpress-SSL-Pinning-Bypass) — Intercept AliExpress HTTPS traffic on Android
+- 🐦 [X (Twitter) SSL Pinning Bypass](https://github.com/0xSHAK1B/X-Twitter-SSL-Pinning-Bypass) — Intercept X (Twitter) HTTPS traffic on Android
 
 > 💬 For any of the above or a custom bypass, [message me on Telegram](https://t.me/MUH4MM4DSH4KIB).
 

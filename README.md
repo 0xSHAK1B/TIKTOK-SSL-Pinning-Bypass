@@ -130,7 +130,8 @@ If this saved you time or helped your research, please **⭐ star the repo** —
 
 | Currency | Address |
 |:---------|:--------|
-| **BTC / ETH** | `0xea9a566a5123c3a1b8d60f8bdd845835716668f0` |
+| **BTC** | `131NaAJooX2XYq5QUFmKsTuLQXcGNayYPJ` |
+| **ETH** | `0xea9a566a5123c3a1b8d60f8bdd845835716668f0` |
 | **USDT (TRC-20)** | `THssAZhUQEEsw15211rAaRLGRjSWXMX4PW` |
 
 <br>

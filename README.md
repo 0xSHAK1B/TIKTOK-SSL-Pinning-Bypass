@@ -6,18 +6,18 @@
 
 <br>
 
-[![Download APK](https://img.shields.io/badge/⬇_DOWNLOAD_APK_v47.0.3-ff0050?style=for-the-badge&logo=tiktok&logoColor=white)](../../releases/latest)
+[![Download APK](https://img.shields.io/badge/⬇_DOWNLOAD_APK_v47.4.3-ff0050?style=for-the-badge&logo=tiktok&logoColor=white)](../../releases/latest)
 [![Telegram](https://img.shields.io/badge/Chat_on_Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MUH4MM4DSH4KIB)
 
 ![Android](https://img.shields.io/badge/Android_10--14+-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![ARM64](https://img.shields.io/badge/arm64--v8a-blue?style=flat-square)
 ![armeabi](https://img.shields.io/badge/armeabi--v7a-blue?style=flat-square)
-![Version](https://img.shields.io/badge/TikTok-v47.0.3-ff0050?style=flat-square&logo=tiktok&logoColor=white)
+![Version](https://img.shields.io/badge/TikTok-v47.4.3-ff0050?style=flat-square&logo=tiktok&logoColor=white)
 ![Root](https://img.shields.io/badge/Root-Not_Required-brightgreen?style=flat-square)
 
 🔓 Pinning defeated&nbsp;&nbsp;·&nbsp;&nbsp;🔐 Login & OTP&nbsp;&nbsp;·&nbsp;&nbsp;🧬 x-argus / x-gorgon&nbsp;&nbsp;·&nbsp;&nbsp;🎬 Video CDN&nbsp;&nbsp;·&nbsp;&nbsp;⚙️ 32-bit + 64-bit
 
-<img width="1207" height="793" alt="Image" src="https://github.com/user-attachments/assets/e7691274-fcb8-4808-9ea5-a7a01c2de15e" />
+<img width="1195" height="658" alt="Screenshot 2026-10-16 142836" src="https://github.com/user-attachments/assets/5f02c2fd-9245-4d81-8a84-a8adc4ce1ef7" />
 
 _Live capture — TikTok Android `passport/email/send_code/` intercepted in cleartext on a modern Android version._
 
@@ -44,7 +44,7 @@ _Live capture — TikTok Android `passport/email/send_code/` intercepted in clea
 
 | App | Package | Version | ABIs |
 |:----|:--------|:-------:|:----:|
-| **TikTok for Android** | `com.zhiliaoapp.musically` | `47.0.3` | `arm64-v8a` · `armeabi-v7a` |
+| **TikTok for Android** | `com.zhiliaoapp.musically` | `47.4.3` | `arm64-v8a` · `armeabi-v7a` |
 
 ---
 
